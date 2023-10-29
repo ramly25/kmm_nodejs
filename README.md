@@ -1,4 +1,4 @@
-# ksm_nodejs
+# ksm_nodejs Ramly Ramadhani
 typescript for fizzbuzz and palindrome
 * Dan Berikut Jawaban untuk Soal Query
 
